@@ -30,4 +30,4 @@ The custom cursor animation adds an interactive touch, making the website more e
 ## Contact 💬
 Project developed by (Karthik K) - [@EurydiceReverie][contact via telegram](https://t.me/SchadenfreudeKK)
 
->Inspired from Zephyrix Vortexus
+>Inspired from Eurydice
