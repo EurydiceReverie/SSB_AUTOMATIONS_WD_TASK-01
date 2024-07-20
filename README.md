@@ -24,7 +24,7 @@ The goal is to provide an engaging user experience on both desktop and mobile de
 
 ## Testing🚀
 
-** [Adaptive Layout Video](https://raw.githubusercontent.com/EurydiceReverie/SSB_AUTOMATIONS_WD_TASK-01/main/Assets/Layout%20check.mp4)
+![Adaptive Layout Video](https://raw.githubusercontent.com/EurydiceReverie/SSB_AUTOMATIONS_WD_TASK-01/main/Assets/Layout%20check.mp4)
 
 ## Conclusion
 
