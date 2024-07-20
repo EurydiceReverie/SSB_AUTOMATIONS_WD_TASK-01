@@ -22,6 +22,10 @@ The goal is to provide an engaging user experience on both desktop and mobile de
 * The custom cursor is implemented using JavaScript to track the mouse movements and update the position of a GIF image accordingly.
 * The responsive behavior of the navigation bar is controlled by a function that checks the window width and adjusts the layout classes accordingly.
 
+## Testing🚀
+
+** [Adaptive Layout Video](https://raw.githubusercontent.com/EurydiceReverie/SSB_AUTOMATIONS_WD_TASK-01/main/Assets/Layout%20check.mp4)
+
 ## Conclusion
 
 This project showcases how to create an adaptive web layout that improves user experience across different devices.               
